@@ -1,1 +1,1 @@
-# SPARQL-generation-with-pre-trained-GPT-for-KG-Question-Answering
+# SPARQL-generation-with-entity-pre-trained-GPT-for-KG-Question-Answering
